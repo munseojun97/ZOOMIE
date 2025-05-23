@@ -1,0 +1,15 @@
+ZoomieCoin Whitepaper (EN)
+
+ZoomieCoin is a meme token built on Solana, inspired by the "zoomies" - a burst of excitement seen in pets.
+It was fairly launched on pump.fun with no presale, no team allocation, and full community backing.
+
+Token Info:
+- Name: ZoomieCoin
+- Ticker: ZOMI
+- Mint Address: 6aK8MHjwd8gCf7MYykXf5TyGaijW9XqPxnJPTmZJ5QMH
+- Max Supply: 100,000,000
+
+Utility:
+- Meme-powered branding
+- Future NFT integration
+- Community rewards and events
