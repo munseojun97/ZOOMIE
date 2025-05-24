@@ -6,7 +6,7 @@ It was fairly launched on pump.fun with no presale, no team allocation, and full
 Token Info:
 - Name: ZoomieCoin
 - Ticker: ZOMI
-- Mint Address: 6aK8MHjwd8gCf7MYykXf5TyGaijW9XqPxnJPTmZJ5QMH
+- Mint Address: 3PYXw6iyvvJpsCXwFi4u9DoGHaBytPCkjTHqesM8pump
 - Max Supply: 100,000,000
 
 Utility:
